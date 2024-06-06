@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "AñadirOrden", "AñadirOrden\Test.tsp", "F77E12D5-30C3-41E9-BA1D-ED3433AC1F64"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\claudia.salgan\Documents\UFT One\AñadirOrden\AñadirOrden\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		F77E12D5-30C3-41E9-BA1D-ED3433AC1F64.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F77E12D5-30C3-41E9-BA1D-ED3433AC1F64.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F77E12D5-30C3-41E9-BA1D-ED3433AC1F64.Release|Any CPU.Build.0 = Release|Any CPU
+		F77E12D5-30C3-41E9-BA1D-ED3433AC1F64.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
